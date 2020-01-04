@@ -1,0 +1,20 @@
+<package>
+	<id>pm.n7.hsbypass</id>
+	<name>HangSengBypass</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is a jailbreak detection bypass for Hang Seng Banking</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
