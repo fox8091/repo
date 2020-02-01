@@ -1,0 +1,51 @@
+Package: pm.n7.dttbypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Bailey Fox
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/pm.n7.dttbypass_0.0.1_iphoneos-arm.deb
+Size: 2938
+MD5sum: 3e5561379718f0cc6464da3fb8e388aa
+SHA1: 518340fb4a93ecd5129a1ec4521d6f54b08d5cfe
+SHA256: 324bca2f51f72e5833b1db8481e4d1f957d3adbd5e3ccb292784377a2f58ceb3
+Section: Tweaks
+Description: Bypass jailbreak detection for any app using DTTJailbreakDetection
+Author: Bailey Fox
+Depiction: https://n7.pm/repo/depictions/?p=pm.n7.dttbypass
+Name: DTTJailbreakBypass
+
+Package: pm.n7.hsbypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Bailey Fox
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/pm.n7.hsbypass_0.0.1_iphoneos-arm.deb
+Size: 2890
+MD5sum: 064f2c0f2897890e472f656d8ae9ccd3
+SHA1: db4eea2b61e538fab04492a198344480e520838f
+SHA256: 08b5f4ae761e01e1760f81aed616faac99101cc2332f70668e232d43e7898719
+Section: Tweaks
+Description: Bypasses jailbreak detection in the Hang Seng
+Author: Bailey Fox
+Depiction: https://n7.pm/repo/depictions/?p=pm.n7.hsbypass
+Name: HangSengBypass
+
+Package: pm.n7.reprofix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Bailey Fox
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 9.0), com.matchstic.reprovision (<= 0.5.0)
+Filename: ./debs/pm.n7.reprofix_0.0.1_iphoneos-arm.deb
+Size: 3584
+MD5sum: 9fa27deff20c219b06d2861fab4fe950
+SHA1: d94ed52167fb3ed93083801ea1568e837c9489e0
+SHA256: d59e2d7da9336eea9b0138795e7d6d0a6c8af7159a014975437100d174ac7e27
+Section: Tweaks
+Description: Fixes ReProvision
+Author: Bailey Fox
+Depiction: https://n7.pm/repo/depictions/?p=pm.n7.reprofix
+Name: ReProFix
+
