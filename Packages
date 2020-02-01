@@ -32,20 +32,3 @@ Author: Bailey Fox
 Depiction: https://n7.pm/repo/depictions/?p=pm.n7.hsbypass
 Name: HangSengBypass
 
-Package: pm.n7.reprofix
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Bailey Fox
-Installed-Size: 152
-Depends: mobilesubstrate, firmware (>= 9.0), com.matchstic.reprovision (<= 0.5.0)
-Filename: ./debs/pm.n7.reprofix_0.0.1_iphoneos-arm.deb
-Size: 3584
-MD5sum: 9fa27deff20c219b06d2861fab4fe950
-SHA1: d94ed52167fb3ed93083801ea1568e837c9489e0
-SHA256: d59e2d7da9336eea9b0138795e7d6d0a6c8af7159a014975437100d174ac7e27
-Section: Tweaks
-Description: Fixes ReProvision
-Author: Bailey Fox
-Depiction: https://n7.pm/repo/depictions/?p=pm.n7.reprofix
-Name: ReProFix
-
