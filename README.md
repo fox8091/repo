@@ -1,5 +1,5 @@
 # Reposi3
-A Cydia repository template. This template contains sample on how you can easily make depiction pages without replicating your html pages. The pages are styled using [Bootsrap](http://getbootstrap.com/) which is really easy to use. You can see how it looks like by visiting [this sample repo](https://supermamon.github.io/Reposi3/) on your desktop or mobile phone.
+A Cydia repository template. This template contains sample on how you can easily make depiction pages without replicating your html pages. The pages are styled using [Bootstrap](http://getbootstrap.com/) which is really easy to use. You can see how it looks like by visiting [this sample repo](https://supermamon.github.io/Reposi3/) on your desktop or mobile phone.
 
 Most data for this repo is stored on XML files and are loaded on the depiction page dynamically. See the guide below on how to set it up. Note that this guide doesn't cover creating .deb files but will briefly cover assiging depictions.
 
@@ -35,12 +35,14 @@ Edit `Release` file. Modify the items pointed by `<--`
 
 **Branding**
 
-Open `index.html` and look at lines 18 and 19.
-Change line 18 into your own **brand** and line 19 to have your own URL.
-Line2 27-44 contains the list of featured packages.
-You can edit those too or remove them totally.
 
-Replace CydiaIcon.png.
+
+Edit `index.html`
+* Change the page title in the `<title>Reposi3</title>` tag
+* See lines 20 and 21.
+* Change line 20 into your own **brand** and line 21 to have your own URL.
+* Line2 30-51 contains the list of featured packages. You can edit those or remove them totally.
+* Replace CydiaIcon.png.
 
 
 **Page Footers**
